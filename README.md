@@ -1,16 +1,15 @@
-### Hi there 👋
+![orange](https://pbs.twimg.com/profile_banners/1250867722222809096/1587133424/1500x500)
 
-<!--
-**ohheyjosh/ohheyjosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋 I'm Josh.
+#### I'm a product designer and UX-informed developer.
 
-Here are some ideas to get you started:
+#### I use:
+⚡️ JavaScript everywhere: Node.js, Next.js, React.js, Redux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ API everywhere: REST, GraphQL, AJAX, fetch
+
+☁️ Cloud from day 1: AWS, Netlify, and "serverless" infrastructure
+
+✏️ Design from day 0: Sketch, Figma, and good ol' pen + paper
+
+[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohheyjosh&count_private=true&show_icons=true)](https://github.com/ohheyjosh/github-readme-stats)
