@@ -1,6 +1,6 @@
 ![orange](https://pbs.twimg.com/profile_banners/1250867722222809096/1587133424/1500x500)
 
-### Josh Barnett: Product designer and UX-informed developer.
+### Josh Barnett: UX Developer.
 
 #### I use:
 ⚡️ JavaScript everywhere: Node.js, Next.js, React.js, Redux
