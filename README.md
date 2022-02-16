@@ -1,9 +1,9 @@
 ![orange](https://pbs.twimg.com/profile_banners/1250867722222809096/1587133424/1500x500)
 
-### Josh Barnett: UX Developer.
+### Josh Barnett: Engineering Manager + Web Idiot.
 
 #### I use:
-⚡️ JavaScript everywhere: Node.js, Next.js, React.js, Redux
+⚡️ JavaScript everywhere: Node.js, Next.js, React
 
 ✨ API everywhere: REST, GraphQL, AJAX, fetch
 
